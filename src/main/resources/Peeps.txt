@@ -1,0 +1,100 @@
+Andrei, Popescu, 28, București
+Maria, Ionescu, 35, Cluj-Napoca
+Ion, Gheorghescu, 42, Timișoara
+Elena, Mihai, 31, Iași
+Mihai, Stan, 27, Constanța
+Ana, Dima, 29, Craiova
+Cristian, Neagu, 36, Galați
+Georgiana, Marinescu, 30, Brașov
+Lucian, Iordache, 33, Oradea
+Larisa, Dumitru, 40, Sibiu
+Alexandru, Cojocaru, 44, Ploiești
+Mihaela, Vasile, 25, Arad
+Sorin, Andrei, 38, Bacău
+Andreea, Radu, 34, Târgu Mureș
+Răzvan, Georgescu, 47, Baia Mare
+Carmen, Marinescu, 39, Pitești
+Marius, Popa, 26, Oradea
+Roxana, Munteanu, 29, Brăila
+Vlad, Bălan, 41, Arad
+Diana, Voicu, 37, Satu Mare
+Cătălin, Pop, 32, Focșani
+Adriana, Petrescu, 43, Buzău
+Florin, Stan, 30, Suceava
+Oana, Mihai, 45, Alexandria
+Valentin, Sava, 38, Târgoviște
+Sorina, Ciobanu, 28, Râmnicu Vâlcea
+Alexandru, Marinescu, 48, Slatina
+Andreea, Costin, 39, Tulcea
+Dan, Bălan, 33, Bistrița
+Andrei, Ionescu, 27, București
+Maria, Popescu, 29, Cluj-Napoca
+Cristian, Radu, 31, Timișoara
+Elena, Mihai, 36, Iași
+George, Voicu, 28, Constanța
+Andreea, Pop, 33, Craiova
+Mihai, Stanescu, 42, Galați
+Ana, Dima, 30, Brașov
+Alexandru, Barbu, 35, Oradea
+Larisa, Dumitrescu, 39, Sibiu
+Marius, Costin, 45, Ploiești
+Gabriela, Vasile, 26, Arad
+Sorin, Andreescu, 37, Bacău
+Valentina, Cătănescu, 32, Târgu Mureș
+Răzvan, Georgescu, 40, Baia Mare
+Mihaela, Moldovan, 34, Pitești
+Adrian, Sava, 29, Oradea
+Diana, Popescu, 31, Brăila
+Cătălin, Ionescu, 46, Arad
+Andreea, Voicu, 38, Satu Mare
+Vlad, Cojocaru, 43, Focșani
+Roxana, Preda, 44, Buzău
+Cristina, Munteanu, 27, Suceava
+Gabriel, Mihai, 41, Alexandria
+Larisa, Sava, 35, Târgoviște
+Dan, Moldovan, 28, Râmnicu Vâlcea
+Simona, Stanescu, 30, Slatina
+Florin, Barbu, 39, Tulcea
+Mihai, Popa, 42, Bistrița
+Larisa, Sava, 33, Sfântu Gheorghe
+Roxana, Grigorescu, 26, Alba Iulia
+Adrian, Ionescu, 31, Bistrița
+Diana, Stoica, 28, Baia Mare
+Gabriel, Popescu, 37, Botoșani
+Mihaela, Cojocaru, 33, Brăila
+Alexandru, Radu, 30, Ploiești
+Cătălin, Georgescu, 29, Târgu Mureș
+Andreea, Pop, 32, Arad
+Marius, Mihai, 45, Constanța
+Elena, Vasile, 39, Suceava
+Dan, Moldovan, 44, Oradea
+Simona, Barbu, 42, Râmnicu Vâlcea
+George, Marin, 35, Pitești
+Larisa, Dima, 27, Galați
+Valentin, Preda, 38, Iași
+Roxana, Voicu, 36, București
+Cristina, Cătănescu, 30, Oradea
+Sorin, Ionescu, 43, Satu Mare
+Andrei, Andreescu, 34, Bacău
+Mihai, Sava, 41, Craiova
+Ana, Popa, 29, Focșani
+Alexandru, Radu, 37, Slatina
+Mariana, Barbu, 40, Brăila
+Andrei, Voicu, 31, Sfântu Gheorghe
+Laura, Dima, 38, Târgu Mureș
+Cristian, Georgescu, 35, Pitești
+Larisa, Marin, 32, Buzău
+Adrian, Mihai, 28, Iași
+Mihai, Pop, 44, Timișoara
+Simona, Andreescu, 27, Cluj-Napoca
+Cristina, Dima, 30, Alba Iulia
+Adrian, Popescu, 31, București
+Elena, Ionescu, 25, Galați
+Andrei, Georgescu, 30, Cluj-Napoca
+Mariana, Barbu, 33, Iași
+Vlad, Stoica, 29, Timișoara
+Cristina, Radu, 28, Ploiești
+Mihai, Marin, 40, Bistrița
+Larisa, Ionescu, 36, Suceava
+Gabriel, Voicu, 34, Constanța
+Alexandru, Andreescu, 37, Oradea
