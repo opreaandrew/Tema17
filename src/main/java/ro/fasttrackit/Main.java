@@ -10,6 +10,8 @@ import static java.lang.Integer.parseInt;
 
 public class Main {
     public static void main(String[] args) {
+
+        // Testing purposes
         List<Person> personList = new ArrayList<>();
         try (Scanner scanner = new Scanner(Path.of("src/main/resources/Peeps.txt"))) {
             while (scanner.hasNextLine()) {
@@ -23,7 +25,19 @@ public class Main {
 
         PersonService peeps = new PersonService(personList);
 
-        System.out.println(peeps.allNames());
+        // Methods
+//        System.out.println(peeps.allNames());
+//        System.out.println(peeps.overAge());
+//        System.out.println(peeps.fromOradea());
+//        System.out.println(peeps.fromOradeaOrCluj());
+//        System.out.println(peeps.firstNamesCapitalized());
+//        System.out.println(peeps.firstNameAndALetter());
+//        System.out.println(peeps.ofWorkingAge());
+//        System.out.println(peeps.firstNameStartsWithA());
+//        System.out.println(peeps.allFirstNames());
+//        System.out.println(peeps.sortedByFirstName());
+//        System.out.println(peeps.sortedByLastName());
+        System.out.println(peeps.sortedByFnLnAge());
 
     }
 }
